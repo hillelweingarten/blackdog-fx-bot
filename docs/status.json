@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-16 06:24:29 UTC",
+  "last_updated": "2026-10-16 11:41:48 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
     {
       "symbol": "EURUSD",
-      "price": 1.12271,
+      "price": 1.126,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -19,21 +19,21 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 157.92,
+      "price": 158.02901,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
         "trend": false,
-        "channel": true,
-        "macd": true,
+        "channel": false,
+        "macd": false,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 3
+      "conditions_met": 1
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.3297,
+      "price": 1.3339,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -47,7 +47,7 @@
     },
     {
       "symbol": "AUDUSD",
-      "price": 0.69411,
+      "price": 0.69633,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -61,21 +61,21 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.41843,
+      "price": 1.41509,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
         "trend": false,
-        "channel": false,
+        "channel": true,
         "macd": true,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 2
+      "conditions_met": 3
     },
     {
       "symbol": "USDCHF",
-      "price": 0.82716,
+      "price": 0.82275,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -89,7 +89,7 @@
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.56488,
+      "price": 0.56686,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -103,21 +103,21 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 177.26401,
+      "price": 177.88499,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
         "trend": true,
         "channel": true,
-        "macd": false,
+        "macd": true,
         "mtf": true,
-        "ses": true
+        "ses": false
       },
       "conditions_met": 4
     },
     {
       "symbol": "GBPJPY",
-      "price": 209.99699,
+      "price": 210.784,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -131,7 +131,7 @@
     },
     {
       "symbol": "EURGBP",
-      "price": 0.84411,
+      "price": 0.84388,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
