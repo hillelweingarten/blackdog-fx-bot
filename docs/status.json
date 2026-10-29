@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28 23:22:11 UTC",
+  "last_updated": "2026-10-29 02:32:06 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -19,7 +19,7 @@
     },
     {
       "symbol": "USDJPY",
-      "price": 157.79401,
+      "price": 157.655,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -33,7 +33,7 @@
     },
     {
       "symbol": "GBPUSD",
-      "price": 1.33241,
+      "price": 1.33296,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -47,7 +47,7 @@
     },
     {
       "symbol": "AUDUSD",
-      "price": 0.70522,
+      "price": 0.70587,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -61,7 +61,7 @@
     },
     {
       "symbol": "USDCAD",
-      "price": 1.39908,
+      "price": 1.39763,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.82794,
+      "price": 0.82746,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -89,7 +89,7 @@
     },
     {
       "symbol": "NZDUSD",
-      "price": 0.56281,
+      "price": 0.5624,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
@@ -103,7 +103,7 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 175.994,
+      "price": 175.842,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -117,7 +117,7 @@
     },
     {
       "symbol": "GBPJPY",
-      "price": 210.241,
+      "price": 210.125,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
@@ -131,17 +131,17 @@
     },
     {
       "symbol": "EURGBP",
-      "price": 0.83712,
+      "price": 0.8368,
       "signal": "WAIT",
-      "direction": "BULL",
+      "direction": "BEAR",
       "conditions": {
-        "trend": true,
-        "channel": false,
-        "macd": false,
+        "trend": false,
+        "channel": true,
+        "macd": true,
         "mtf": true,
         "ses": false
       },
-      "conditions_met": 2
+      "conditions_met": 3
     }
   ]
 }
