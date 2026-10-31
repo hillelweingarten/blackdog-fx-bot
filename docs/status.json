@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30 21:28:57 UTC",
+  "last_updated": "2026-10-31 00:57:41 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -49,15 +49,15 @@
       "symbol": "AUDUSD",
       "price": 0.70353,
       "signal": "WAIT",
-      "direction": "BEAR",
+      "direction": "BULL",
       "conditions": {
-        "trend": false,
-        "channel": false,
-        "macd": false,
-        "mtf": true,
+        "trend": true,
+        "channel": true,
+        "macd": true,
+        "mtf": false,
         "ses": false
       },
-      "conditions_met": 1
+      "conditions_met": 3
     },
     {
       "symbol": "USDCAD",
@@ -75,7 +75,7 @@
     },
     {
       "symbol": "USDCHF",
-      "price": 0.8247,
+      "price": 0.8249,
       "signal": "WAIT",
       "direction": "BULL",
       "conditions": {
