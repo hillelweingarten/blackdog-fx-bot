@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 02:00:02 UTC",
+  "last_updated": "2026-11-14 08:46:26 UTC",
   "timeframe": "15m",
   "mtf": "1h",
   "pairs": [
@@ -103,7 +103,7 @@
     },
     {
       "symbol": "EURJPY",
-      "price": 176.049,
+      "price": 176.043,
       "signal": "WAIT",
       "direction": "BEAR",
       "conditions": {
